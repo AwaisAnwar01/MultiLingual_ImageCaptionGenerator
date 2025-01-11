@@ -79,18 +79,5 @@ The model's performance is evaluated using:
 
 The results indicate a reasonable level of accuracy in matching generated captions with reference captions.
 
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries or feedback, please contact:
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
